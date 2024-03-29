@@ -18,11 +18,13 @@ How users can get started with the project:
 ·They can utilize the GPS feature for planning meetups and monitoring weather conditions to prepare adequately for their outdoor adventures.
 
 Where users can get help with your project:
+
 E-mail address: xueli.jiao.23@ucl.ac.uk
                 zhenkun.wang.23@ucl.ac.uk
                 haoming.wang.22@ucl.ac.uk
 
 Who maintains and contributes to the project?
+
 Group leader: Xueli Jiao (Organize all processes)
 Electronic engineer: Zhenkun Wang (Electrical component circuit section)
 Designer: Haoming Wang (Model design section)
