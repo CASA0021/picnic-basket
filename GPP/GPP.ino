@@ -77,7 +77,6 @@ void setup()
   strip.setBrightness(50);         
 
   gpsSerial.begin(9600, SERIAL_8N1, RXPin, TXPin);
-  Serial.println("GPS Demo开始");
 
   delay(100);
   printf("EPD_7IN5_V2_test Demo\r\n");
@@ -108,7 +107,7 @@ void loop()
   sensorValue = 0;
   sum = 0;
   for(int i = 0; i < 1024; i++) {
-    sensorValue = analogRead(A0);
+    sensorValue = analogRead(35);
     sum += sensorValue;
     delay(2);
   }
