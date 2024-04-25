@@ -1,4 +1,4 @@
-<h1>smart picnic basket  
+<h1>smart picnic basket</h1>  
   
 ![Figure 1. smart picnic basket](/images/Figure1.png)
 
