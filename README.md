@@ -1,4 +1,5 @@
-<h1>smart picnic basket<h1>  
+<h1>smart picnic basket  
+  
 ![Figure 1. smart picnic basket](/images/Figure1.png)
 
 **What the project does:**
