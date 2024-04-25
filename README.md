@@ -1,6 +1,6 @@
-<h1>smart picnic basket</h1>  
+<h1>Smart Picnic Basket</h1>  
   
-![Figure 1. smart picnic basket](/images/Figure1.png)
+![Figure 1. smart picnic basket](/images/Figure1.png)  
 Figure 1. smart picnic basket  
 
 **What the project does:**
@@ -22,13 +22,13 @@ For outdoor enthusiasts: A UV sensor and an LED stick are on the basket’s fron
 Users can pack the food and water needed for the picnic into the smart picnic basket before departing. The E-paper screen of the basket will display the temperature, humidity, time, and latitude and longitude of the current environment. Users can share the latitude and longitude of the picnic location with their friends for a good meeting. The screen will display some outdoor activity tips, and the NeoPixel next to the screen will display UV index. Users can apply some sunscreen if the UV index is too high. In the presence of sunlight, the two solar panels at the top of the basket can charge the built-in lithium battery, allowing the entire circuit to operate normally.  
 2.For project builders  
 If you want to reproduce our product easily, all the required source files have been uploaded to the GitHub repository. Firstly, you can purchase all the hardware required to reproduce this project through online shopping platforms such as Amazon.  
-![Figure 2. Components and costs](images/Figure2.png)
+![Figure 2. Components and costs](images/Figure2.png)  
 Figure 2. Components and costs  
 Secondly, you can download the Picnic Basket-laser cut.dxf file under the design folder, which contains all the components of the basket laser cutting. You can use a 3mm pine board to make the frame of the basket. Back Frame.gcode and Front Frame.gcode are the frames before and after the E-paper screen used in the basket. You can use these two frames for 3D printing to protect the E-paper screen. All files for PCB design are placed in the PCB folder, and you can choose to use either PCB or ESP32, both of which are feasible.
 Next, connect all the hardware and circuits. You can refer to our circuit schematic and workflow diagram. The code required for circuit operation is placed in the GPP folder with the file name GPP.ion.  
-![Figure 3. Circuit schematic](images/Figure3.png)
+![Figure 3. Circuit schematic](images/Figure3.png)  
 Figure 3. Circuit schematic  
-![Figure 4. Workflow](images/Figure4.png)
+![Figure 4. Workflow](images/Figure4.png)  
 Figure 4. Workflow  
 After completing the steps of material preparation, laser cutting, 3D printing, and circuit connection, the final step is to assemble the basket. You can purchase a super glue for the bonding of the basket after assembly, which has been tested by us and is very useful. You can choose a beautiful piece of fabric to place inside the basket and use a watercolor pen to color the outside of the basket. This will complete the production of a beautiful and practical smart picnic basket.  
 
@@ -36,9 +36,10 @@ After completing the steps of material preparation, laser cutting, 3D printing, 
 
 We are master's students majoring in Connected Environment at UCL School of the Bartlett for 23-24 academic years. If you encounter any problems during the process of regenerating our project, please feel free to contact us via the email below. We are willing to provide you with assistance.  
 
-E-mail address: xueli.jiao.23@ucl.ac.uk<br>
-             zhenkun.wang.23@ucl.ac.uk<br>
-             haoming.wang.22@ucl.ac.uk<br>
+E-mail address:   
+xueli.jiao.23@ucl.ac.uk<br>
+zhenkun.wang.23@ucl.ac.uk<br>
+haoming.wang.22@ucl.ac.uk<br>
 
 **Who maintains and contributes to the project?**
 
