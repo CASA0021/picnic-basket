@@ -34,7 +34,7 @@ After completing the steps of material preparation, laser cutting, 3D printing, 
 
 **Where users can get help with your project:**
 
-We are master's students majoring in Connected Environment at UCL School of the Bartlett for 23-24 academic years. If you encounter any problems during the process of regenerating our project, please feel free to contact us via the email below. We are willing to provide you with assistance.  
+We are master's students majoring in Connected Environments at UCL School of the Bartlett for 23-24 academic years. If you encounter any problems during the process of regenerating our project, please feel free to contact us via the email below. We are willing to provide you with assistance.  
 
 E-mail address:   
 xueli.jiao.23@ucl.ac.uk<br>
