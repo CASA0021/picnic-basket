@@ -12,15 +12,15 @@ technology, we can enhance people’s outdoor experiences, allowing everyone to 
 
 **Why the project is useful:**
 
-For family user: Our picnic basket is perfect for families to use for outdoor activities. They can put fruits, snacks, drinks, and whatever they want inside. They can also share geographic location information(longitude and latitude) with their friends if they agree to meet at a certain location in the park. People know they need to wear thick clothes when they see the temperature on the E-paper screen go down to avoid getting cold. If the humidity index is over 70 percent, it may rain soon. Thus, users could leave the picnic place to find shelter to avoid being wet if the humidity approximates 70 percent.  
-For technology enthusiasts: An E-paper screen is positioned on the front of the smart picnic basket, displaying real-time environmental data, making the basket more technological. Two solar panels are placed on the top that can charge the rechargeable lithium battery to power the entire circuit.  
-For outdoor enthusiasts: A UV sensor and an LED stick are on the basket’s front. The LED stick displays the intensity of ultraviolet light; when the lights on the LED stick are more than 4 pixels, it means sunshine may harm people’s skin, so we recommend users apply some sunscreen. Moreover, some tips for coping with emergencies in the wild are also provided on the E-paper screen, such as how to identify poisonous mushrooms and proper medication to deal with emergencies.  
+1. For family user: Our picnic basket is perfect for families to use for outdoor activities. They can put fruits, snacks, drinks, and whatever they want inside. They can also share geographic location information(longitude and latitude) with their friends if they agree to meet at a certain location in the park. People know they need to wear thick clothes when they see the temperature on the E-paper screen go down to avoid getting cold. If the humidity index is over 70 percent, it may rain soon. Thus, users could leave the picnic place to find shelter to avoid being wet if the humidity approximates 70 percent.  
+2. For technology enthusiasts: An E-paper screen is positioned on the front of the smart picnic basket, displaying real-time environmental data, making the basket more technological. Two solar panels are placed on the top that can charge the rechargeable lithium battery to power the entire circuit.  
+3. For outdoor enthusiasts: A UV sensor and an LED stick are on the basket’s front. The LED stick displays the intensity of ultraviolet light; when the lights on the LED stick are more than 4 pixels, it means sunshine may harm people’s skin, so we recommend users apply some sunscreen. Moreover, some tips for coping with emergencies in the wild are also provided on the E-paper screen, such as how to identify poisonous mushrooms and proper medication to deal with emergencies.  
 
 **How users can get started with the project:**
 
-1.For users  
+1. For users  
 Users can pack the food and water needed for the picnic into the smart picnic basket before departing. The E-paper screen of the basket will display the temperature, humidity, time, and latitude and longitude of the current environment. Users can share the latitude and longitude of the picnic location with their friends for a good meeting. The screen will display some outdoor activity tips, and the NeoPixel next to the screen will display UV index. Users can apply some sunscreen if the UV index is too high. In the presence of sunlight, the two solar panels at the top of the basket can charge the built-in lithium battery, allowing the entire circuit to operate normally.  
-2.For project builders  
+2. For project builders  
 If you want to reproduce our product easily, all the required source files have been uploaded to the GitHub repository. Firstly, you can purchase all the hardware required to reproduce this project through online shopping platforms such as Amazon.  
 ![Figure 2. Components and costs](images/Figure2.png)  
 Figure 2. Components and costs  
